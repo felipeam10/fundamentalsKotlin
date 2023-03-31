@@ -1,0 +1,4 @@
+package fundamentals
+
+class EstruturaWhen {
+}
